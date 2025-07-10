@@ -8,6 +8,9 @@ from social_blog.forms import RegistrationForm, LoginForm, UpdateAccountForm, Po
 from flask_login import login_user, current_user, logout_user, login_required
 
 
+@app.route('/')
+def default():
+    return redirect(url_for('home'))
 
 @app.route('/home')
 def home():
