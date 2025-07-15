@@ -1,4 +1,6 @@
-from social_blog import app, db
+from social_blog import create_app, db
+
+app = create_app()
 
 if __name__ == "__main__": 
     # this create the .db file
