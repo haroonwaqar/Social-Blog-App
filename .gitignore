@@ -2,7 +2,7 @@
 
 # Python
 .venv/
-flaskblog/__pycache__/
+social_blog/__pycache__/
 *.py[cod]
 
 # macOS
