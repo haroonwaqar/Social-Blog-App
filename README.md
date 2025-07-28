@@ -12,6 +12,4 @@ A modern blog web application built using **Flask**, **PostgreSQL**, and **Boots
 ## Screenshot
 
 ### Home
-![Home Page](<screenshot/home page light.png>)
-&nbsp;
 ![Home Page](<screenshot/home page dark.png>)
