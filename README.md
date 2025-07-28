@@ -8,3 +8,10 @@ A modern blog web application built using **Flask**, **PostgreSQL**, and **Boots
 - Login
 - Reset password via mail
 - Create, update, delete a post
+
+## Screenshot
+
+### Home
+![Home Page](<screenshot/home page light.png>)
+&nbsp;
+![Home Page](<screenshot/home page dark.png>)
