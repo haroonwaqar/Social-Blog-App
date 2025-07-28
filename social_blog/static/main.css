@@ -223,7 +223,7 @@ h4 { font-size: var(--font-size-lg); }
 }
 
 .btn-new-post:hover, .btn-register:hover {
-    background: var(--accent-blue-hover) !important;
+    background: var(--bg-secondary) !important;
     color: white !important;
     transform: translateY(-1px);
     box-shadow: var(--shadow-md);
@@ -650,7 +650,6 @@ h4 { font-size: var(--font-size-lg); }
   
 }
 
-
 .btn-danger:hover {
   background: red;
   color: white;
@@ -665,4 +664,18 @@ h4 { font-size: var(--font-size-lg); }
   background: var(--accent-blue);
   color: white;
   border: 2px solid var(--accent-blue);
+}
+
+.about-font {
+  font-size: var(--font-size-2xl);
+  font-weight: 500;
+  color: var(--text-primary);
+  text-decoration:dashed;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
