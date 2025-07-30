@@ -6,7 +6,7 @@ A modern blog web application built using **Flask**, **PostgreSQL**, and **Boots
 
 - Register
 - Login
-- Reset password via mail
+- Reset password via email
 - Create, update, delete a post
 
 ## Screenshot
