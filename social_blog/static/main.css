@@ -288,8 +288,8 @@ h4 { font-size: var(--font-size-lg); }
 }
 
 .article-content {
-    color: var(--text-secondary);
-    font-size: var(--font-size-base);
+    color: var(--text-primary);
+    font-size: var(--font-size-lg);
     line-height: 1.6;
     margin-bottom: 1rem;
     white-space: pre-line;
@@ -666,11 +666,34 @@ h4 { font-size: var(--font-size-lg); }
   border: 2px solid var(--accent-blue);
 }
 
+/* modal darkmode adjustments*/
+
+[data-theme="dark"] .close { 
+  font-weight: 450;
+  color:white
+}
+
+[data-theme="dark"] .close:hover {
+  color: white;
+}
+
+[data-theme="dark"] .modal-content {
+    background: var(--bg-secondary);
+    color: var(--bg-primary);
+}
+
+/* about */
+
 .about-font {
   font-size: var(--font-size-2xl);
   font-weight: 500;
   color: var(--text-primary);
   text-decoration:dashed;
+}
+
+.about-vibrant {
+    color: var(--accent-blue);
+    
 }
 
 .center {
