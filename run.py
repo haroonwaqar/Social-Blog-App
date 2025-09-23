@@ -8,4 +8,4 @@ if __name__ == "__main__":
         db.create_all() 
 
     # this runs it on local and local internet IP address
-    app.run(host='0.0.0.0', port=5555, debug=True)
+    app.run()
