@@ -11,5 +11,11 @@ A modern blog web application built using **Flask**, **PostgreSQL**, and **Boots
 
 ## Screenshot
 
-### Home
+### Home Page
 ![Home Page](<screenshot/home page dark.png>)
+
+### Sign Up Page
+![Sign Up Page](<screenshot/Screenshot 2025-07-28 at 6.46.23 PM.png>)
+
+### Login Page
+![Login Page](<screenshot/Screenshot 2025-07-28 at 5.07.01 PM.png>)
