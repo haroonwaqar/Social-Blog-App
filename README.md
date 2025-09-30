@@ -12,6 +12,7 @@ A modern blog web application built using **Flask**, **PostgreSQL**, and **Boots
 ## Live Demo
 
 Try it here: [Social Blog App](https://socialblog-1c21f5048bb1.herokuapp.com)
+
 ## Screenshot
 
 ### Home Page
